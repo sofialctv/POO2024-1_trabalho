@@ -1,0 +1,99 @@
+# Cadastrando um usuário:
+1
+hsjunior
+Hilario Seibel Junior
+123456
+123.456.789-00
+4
+12
+1981
+# Cadastrando um usuário:
+1
+wagnerkc
+Wagner Kirmse Caldas
+beneS2
+234.567.890-00
+1
+1
+1900
+# Cadastrando um usuário:
+1
+flavio_vix
+Flavio Giraldeli
+aoc
+345.678.900-00
+2
+2
+1982
+# Cadastrando uma empresa (login, nome, senha e cnpj):
+2
+ifes_serra
+Ifes Campus Serra
+Ifes2024!
+12.345.678/0001-00
+# Fazendo login no primeiro usuário:
+3
+hsjunior
+123456
+# Seguindo um usuário:
+1
+wagnerkc
+# Seguindo um usuário:
+1
+ifes_serra
+# Postando uma foto (nome da foto, legenda, dia, mes, ano e senha):
+2
+crossfit01.jpg
+Tá pago!
+29
+5
+2024
+123456
+# Logout deste usuário:
+0
+# Fazendo login no segundo usuário:
+3
+wagnerkc
+beneS2
+# Postando uma foto (nome da foto, legenda, dia, mes, ano e senha):
+2
+prog1.jpg
+Amo meus alunos!
+29
+5
+2024
+beneS2
+# Postando uma foto (nome da foto, legenda, dia, mes, ano e senha):
+2
+direcao.jpg
+Amo o Bene também!
+30
+5
+2024
+beneS2
+# Logout deste usuário:
+0
+# Fazendo login na empresa:
+3
+ifes_serra
+Ifes2024!
+# Postando uma foto (nome da foto, legenda, dia, mes, ano e senha):
+2
+ifes01.jpg
+Sejam bem vindos!
+1
+2
+2024
+Ifes2024!
+# Logout deste usuário:
+0
+# Fazendo login no primeiro usuário:
+3
+hsjunior
+123456
+# Visualizar o feed desse usuário:
+3
+# Logout deste usuário:
+0
+# Saindo do programa
+0
