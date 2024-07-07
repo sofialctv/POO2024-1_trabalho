@@ -87,8 +87,8 @@ public abstract class Usuario implements Salvavel, Comparable<Usuario> {
         }
     }
 
-    public int compareTo(Usuario u){
-       return this.nome.compareTo(u.nome);
+    public int compareTo(Usuario u) {
+        return this.login.compareTo(u.login);
     }
 
     public void salvarSeguindo(BufferedWriter b) throws IOException {

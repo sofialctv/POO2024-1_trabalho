@@ -32,6 +32,6 @@ public class Postagem implements Comparable<Postagem>{
             return comparacaoSeguidores;
         }
 
-        return this.usuario.nome.compareTo(p.usuario.nome);
+        return this.usuario.compareTo(p.usuario);
     }
 }
